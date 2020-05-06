@@ -8,3 +8,5 @@ then
 Another File 
 
 inside child
+
+changed in Git
