@@ -1,3 +1,10 @@
 Another file
 
+
 in master
+
+then
+
+Another File 
+
+inside child
